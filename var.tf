@@ -1,6 +1,6 @@
-variable "ami_id" {
-}
-
-variable "instance_types" {
-
-}
+# variable "ami_id" {
+# }
+#
+# variable "instance_types" {
+#
+# }
