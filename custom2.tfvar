@@ -1,0 +1,5 @@
+mylb-id = "mylb"
+Az = ["us-west-2a","us-west-2c"]
+timeout = 400
+region = "us-east-1"
+profile = "default"
